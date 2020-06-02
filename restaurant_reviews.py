@@ -1,4 +1,4 @@
-#classify movie reviews positive or negative 0"negative" 1"positive"
+#classify  reviews/comments positive or negative 0"negative" 1"positive"
 
 
 #reading dataset
